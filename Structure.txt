@@ -1,0 +1,44 @@
+indeed-job-automation/
+│
+├── .github/
+│   └── workflows/
+│       └── run_bot.yml
+│
+├── config/
+│   ├── profile_data.json
+│   └── settings.json
+│
+├── data/
+│   ├── applied_jobs.json
+│   └── failed_jobs.json
+│
+├── browser/
+│   ├── browser_manager.py
+│   ├── session_manager.py
+│   └── selectors.py
+│
+├── jobs/
+│   ├── collector.py
+│   ├── parser.py
+│   └── filter.py
+│
+├── ai/
+│   ├── nvidia.py
+│   └── prompts.py
+│
+├── application/
+│   ├── application_handler.py
+│   ├── answer_generator.py
+│   └── submission_checker.py
+│
+├── tracking/
+│   └── tracker.py
+│
+├── notifications/
+│   └── telegram.py
+│
+├── main.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── README.md

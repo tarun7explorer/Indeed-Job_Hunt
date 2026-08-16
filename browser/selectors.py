@@ -1,0 +1,10 @@
+class Selectors:
+    JOB_CARD = "a[data-jk]"
+    JOB_TITLE = "h2.jobsearch-JobInfoHeader-title"
+    COMPANY_NAME = "[data-company-name='true']"
+    EASILY_APPLY_BTN = "button:has-text('Easily apply'), button:has-text('Apply now')"
+    SUBMIT_BTN = "button:has-text('Submit your application')"
+    CONTINUE_BTN = "button:has-text('Continue'), button:has-text('Next')"
+    TEXT_INPUTS = "input[type='text'], textarea"
+    SELECT_DROPDOWNS = "select"
+    FIELDSETS = "fieldset"

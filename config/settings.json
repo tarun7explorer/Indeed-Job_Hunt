@@ -1,0 +1,22 @@
+{
+  "target_roles": [
+    "Software Engineer",
+    "SDE 1",
+    "Backend Developer",
+    "Data Analyst",
+    "AI Engineer",
+    "ML Engineer",
+    "Cloud Engineer",
+    "Programmer Analyst"
+  ],
+  "locations": [
+    "Hyderabad",
+    "Pune",
+    "Bengaluru",
+    "Remote"
+  ],
+  "experience_level": "ENTRY_LEVEL",
+  "max_job_age_days": 3,
+  "max_jobs_per_run": 10,
+  "headful": false
+}

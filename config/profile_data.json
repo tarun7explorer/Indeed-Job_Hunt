@@ -1,0 +1,26 @@
+{
+  "full_name": "Tarun Tej Gajibimkar",
+  "email": "taruntej2525@gmail.com",
+  "phone": "+91-7989149782",
+  "experience_years": "0-2",
+  "primary_roles": [
+    "Software Development Engineer (SDE-1)",
+    "Programmer Analyst",
+    "Backend Developer",
+    "AI / ML Engineer",
+    "Data Analyst",
+    "Cloud Engineer"
+  ],
+  "skills": [
+    "Python", "Java", "SQL", "JavaScript", "FastAPI", "Flask", "React",
+    "Node.js", "REST APIs", "LLMs", "RAG", "NLP", "Deep Learning",
+    "TensorFlow", "Hugging Face", "AWS", "Docker", "Microservices",
+    "Power BI", "Git", "Postman", "CI/CD"
+  ],
+  "education": {
+    "degree": "BTech in Electronics and Communication Engineering",
+    "college": "Vardhaman College of Engineering",
+    "cgpa": "7.2/10"
+  },
+  "notice_period": "Immediate"
+}

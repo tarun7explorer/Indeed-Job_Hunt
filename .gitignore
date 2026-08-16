@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+auth.json
+data/*.json
+!data/applied_jobs.json
+!data/failed_jobs.json
+
+user_data/
+auth.json
+.env
